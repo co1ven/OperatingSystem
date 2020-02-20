@@ -1,6 +1,6 @@
-from logic import OperationSystem
+from logic import OperatingSystem
 
 
 if __name__ == '__main__':
-    app = OperationSystem()
+    app = OperatingSystem()
     app.run()
