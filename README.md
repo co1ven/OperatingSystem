@@ -1,2 +1,2 @@
 # OperatingSystem
-Operation system's homework
+Operating system's homework
