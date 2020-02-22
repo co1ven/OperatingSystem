@@ -39,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,13 +55,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582236080701">
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1582385408756">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582236080701" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1582385408756" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582386258642">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582386258642" />
     <state x="728" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582231179714">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="728" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1582231179714" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1582408842008">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582408842008" />
   </component>
 </project>
