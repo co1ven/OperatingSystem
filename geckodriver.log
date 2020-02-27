@@ -750,3 +750,231 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
 
 1582409177377	Marionette	INFO	Stopped listening on port 45905
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1582409350166	Marionette	INFO	Stopped listening on port 43781
+1582558679870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel0NGxy"
+1582558681637	Marionette	INFO	Listening on port 43131
+1582558681675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://abaq.ru/bitrix/cache/js/s1/aspro_next/default_e69a8ce0138432732af7e79061ba7d46/default_e69a8ce0138432732af7e79061ba7d46_v1.js?158248315611303, line 266: TypeError: answer is null
+JavaScript warning: https://vk.com/js/cmodules/bundles/common.2793cee5cdcb89e9b4e1.js?504367855cdcbd64964b, line 1: Error: Script terminated by timeout at:
+pIFo/</<@https://vk.com/js/cmodules/bundles/common.2793cee5cdcb89e9b4e1.js?504367855cdcbd64964b:1:1
+f@https://vk.com/js/cmodules/bundles/common.2793cee5cdcb89e9b4e1.js?504367855cdcbd64964b:1:310543
+Bt@https://vk.com/js/cmodules/bundles/common.2793cee5cdcb89e9b4e1.js?504367855cdcbd64964b:1:572690
+updateTitle@https://vk.com/js/cmodules/web/feed.89eb05a9848023fae305.js?ec5bbc9dd771e6be9c8ba3e9258f0cb2:1:20846
+t@https://vk.com/js/cmodules/web/feed.89eb05a9848023fae305.js?ec5bbc9dd771e6be9c8ba3e9258f0cb2:1:51416
+s@https://vk.com/js/cmodules/web/feed.89eb05a9848023fae305.js?ec5bbc9dd771e6be9c8ba3e9258f0cb2:1:51525
+p@https://vk.com/js/cmodules/bundles/common.2793cee5cdcb89e9b4e1.js?504367855cdcbd64964b:1:144844
+u/_</<@https://vk.com/js/cmodules/bundles/common.2793cee5cdcb89e9b4e1.js?504367855cdcbd64964b:1:143035
+
+1582559465114	Marionette	INFO	Stopped listening on port 43131
+1582559489539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Vgp84"
+1582559490840	Marionette	INFO	Listening on port 37581
+1582559490844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582559504776	Marionette	INFO	Stopped listening on port 37581
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582644149027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTXaSO9"
+1582644150776	Marionette	INFO	Listening on port 40297
+1582644150837	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582644164713	Marionette	INFO	Stopped listening on port 40297
+1582644169677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4kPfz5"
+1582644171012	Marionette	INFO	Listening on port 45415
+1582644171082	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582644179128	Marionette	INFO	Stopped listening on port 45415
+1582646508232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqenbgH"
+1582646509569	Marionette	INFO	Listening on port 45133
+1582646509636	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582646547685	Marionette	INFO	Stopped listening on port 45133
+1582646573718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyJE8Oz"
+1582646574925	Marionette	INFO	Listening on port 44523
+1582646575029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582646579985	Marionette	INFO	Stopped listening on port 44523
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582646737653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYoyQ5f"
+1582646738995	Marionette	INFO	Listening on port 40903
+1582646739056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582646744119	Marionette	INFO	Stopped listening on port 40903
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582646991639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41veNw"
+1582646993161	Marionette	INFO	Listening on port 38717
+1582646993246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://abaq.ru/bitrix/cache/js/s1/aspro_next/default_e69a8ce0138432732af7e79061ba7d46/default_e69a8ce0138432732af7e79061ba7d46_v1.js?158248315611303, line 266: TypeError: answer is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 83))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:83:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370116,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582647076939	Marionette	INFO	Stopped listening on port 38717
+1582647083018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0dbBu0"
+1582647084432	Marionette	INFO	Listening on port 38261
+1582647084522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582647089128	Marionette	INFO	Stopped listening on port 38261
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582809955871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB2Qz7q"
+1582809957655	Marionette	INFO	Listening on port 36481
+1582809957677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582809966379	Marionette	INFO	Stopped listening on port 36481
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582810177502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE5Qymc"
+1582810178812	Marionette	INFO	Listening on port 41327
+1582810178909	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582810190009	Marionette	INFO	Stopped listening on port 41327
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582810434164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile103jPh"
+1582810435469	Marionette	INFO	Listening on port 37471
+1582810435579	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582810444716	Marionette	INFO	Stopped listening on port 37471
+1582810472770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileANmg6Z"
+1582810474079	Marionette	INFO	Listening on port 46549
+1582810474174	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582810482969	Marionette	INFO	Stopped listening on port 46549
+1582810610529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQpg7tP"
+1582810611884	Marionette	INFO	Listening on port 34153
+1582810611937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582810649991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehRDU00"
+1582810651314	Marionette	INFO	Listening on port 43345
+1582810651395	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582810658471	Marionette	INFO	Stopped listening on port 43345
+JavaScript error: http://abaq.ru/bitrix/cache/js/s1/aspro_next/default_e69a8ce0138432732af7e79061ba7d46/default_e69a8ce0138432732af7e79061ba7d46_v1.js?158248315611303, line 266: TypeError: answer is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1582814480508	Marionette	INFO	Stopped listening on port 34153
+1582814555671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJg6tLc"
+1582814556975	Marionette	INFO	Listening on port 46707
+1582814557077	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582814566269	Marionette	INFO	Stopped listening on port 46707
+1582816568250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile75HmFs"
+1582816569598	Marionette	INFO	Listening on port 34589
+1582816569655	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582816582275	Marionette	INFO	Stopped listening on port 34589
+1582816618815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9v5tG2"
+1582816620223	Marionette	INFO	Listening on port 41479
+1582816620323	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582816627471	Marionette	INFO	Stopped listening on port 41479
+1582819732996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKp8e6Q"
+1582819734326	Marionette	INFO	Listening on port 33745
+1582819734401	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582819748571	Marionette	INFO	Stopped listening on port 33745
+1582819813463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezXrpMv"
+1582819814789	Marionette	INFO	Listening on port 36115
+1582819814871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582819826230	Marionette	INFO	Stopped listening on port 36115
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582820012787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKAmH31"
+1582820014110	Marionette	INFO	Listening on port 33885
+1582820014196	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582820031850	Marionette	INFO	Stopped listening on port 33885
+1582820036402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenelcYW"
+1582820037717	Marionette	INFO	Listening on port 40021
+1582820037806	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582820064204	Marionette	INFO	Stopped listening on port 40021
+1582820431024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepYIvW1"
+1582820432336	Marionette	INFO	Listening on port 33633
+1582820432431	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1582820447420	Marionette	INFO	Stopped listening on port 33633
+1582820568469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZpD4VJ"
+1582820569779	Marionette	INFO	Listening on port 35927
+1582820569874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://abaq.ru/bitrix/cache/js/s1/aspro_next/default_e69a8ce0138432732af7e79061ba7d46/default_e69a8ce0138432732af7e79061ba7d46_v1.js?158248315611303, line 266: TypeError: answer is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1582824124159	Marionette	INFO	Stopped listening on port 35927
+1582828011704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecAXAic"
+1582828013429	Marionette	INFO	Listening on port 42457
+1582828013513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582828079096	Marionette	INFO	Stopped listening on port 42457
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012C,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
